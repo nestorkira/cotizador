@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "creacion-de-proformas",
+  "private_key_id": "5e0ad4fa11769474918af252431f6f2722dc4e3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0Jo9663Dd8rrh\ngFnwBGsSt2AWDJ1vynrpFpV8H39Gt5v6AI+/CifTNvqiHAK1vfinxhb1kv9MGGFV\njarmtt/fAbebFF+HpaUNEa0gXYkugn3bzOD149ZYpdYFVo2G9vOS6PGzriBqpkD4\nq/Zrc8nqS0TG9GVJz5PWSN5xZCI9UEmRJ/LniGXl/6pCdLNto+kxNSJEl9D9KDjH\nPsp6fM4So3OwvRnXC3MsGH/n//XilLENXQ8Q/uk3OuTOkg6DAf47mO58VYAYSTl7\nWGsa1ZlZJ+MJQIJ5BjXyKvYJb73AU2JAa8h9gbm7tGi7Xi8AK7JFuWcIsiQRt02c\nfGplvCmjAgMBAAECggEAKkrRLUi/nwNgdxcURiIrZuHw50w/26I716OrJVAZp6bs\nMbVXCcDfF5lVHqCXzEXUbcK12iIP2DPzCcwv3mj5RpfXHEucn7I1/Mr1C1+aGHaf\nCG5hM6iwxe/sviUTJaetCASy1X1f89mi8B4ixBgTQ3M3KsPuUXUvXkOOIS2iUiU1\nfIMNdQjkQeQCrK32QV30CO6H/15LjEXr64n2iR1olLzyHqwq+eVru5J4zXH4aHMV\nKWnkYC50ok9JH9oMekSL2Vcz3upuBf8v6RSFAD8onX3tYHbXRdbkb6AVWecemeNU\n2OV1u08ELb4ht2lCxzHVbrP9XTLI4Sb5ZVm8TY/rPQKBgQDnOsbDhDRTxk3eR+YI\nguZaEapOihFVa1XGsqAdCeFG0JbQUohhj8EX/a38OBjdrVax5PC2ttLOFgOi2b0L\nBFKvAexJAAZeg6S9wKwXD5mXOOtMvbi7Ro0226N1zEKRsiR7/dBLCL2ATa3w/hVI\n5o3bFlasng7++ztXDT0eQ/r1rwKBgQDHcv+F042Nx815iZWQy+ekDppHEFYZBhRd\nxfPPVzNdW8O6bYAxKxsKeUew43IoZitgMmW+MLXp4dBprgey8sRF0VrlMctiXbBG\nDBSyAinZXbecK6E0+oNGWCuFTCbusMOwr97xTy7fW7vZwmBufbT1Wd/vlV9H/2Ij\ndoLZbxj8TQKBgQDW4FHxQxv1deTK2Xm1Ex/JN31SOw/cl0BAw6HzGklUq2Za9Tdz\noklIaB+UsPS6m+hirGPdB4xioyaB4WHBqSTFKT5QoEtK7X7cLv489+w9EVHoIK5Y\nqjl0bys5vrVl+2vYJYe5Esg3QPiRaSyScF4G6H1nMAKzhPgh71WKmJXQVQKBgF95\ngTAC0SQpnQatAdfKhBxYkSmrfEuGSYGKHOgICiKKpus7N75RsCQXYmYeuqr0HZdz\nCJk+oBZRbn7oO+9Bnwr86NIGQCHaT2N4rP95YacX4aj0ibreoLCvzEWG6qwgGc0e\no05IZVuuggH/tkGuE03PtA7wJihE7CmltYV4VTGRAoGAfX7FPE/ZIucxHekPbNQ3\n17XYtAzDbNpBU/g20urXy+oSGTJD58dNfHEjbhXxBvJXuIZlnIuI+Y+3FRhoh/fY\nBM2R4bzjjgwM01YGVHwgDKKQugtAT/JXqubm7VPX2RJWgI35w2+BMvbFyYmAzvrC\nFaMAB6bdfeU7WAIByh99FPA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "proformas-degol@creacion-de-proformas.iam.gserviceaccount.com",
+  "client_id": "101887331086333065564",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/proformas-degol%40creacion-de-proformas.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
